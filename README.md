@@ -17,6 +17,7 @@
 - Our target audience is preferably those aged above 7, but it would most likely be bored Redditors finding a short sci-fi webgame to waste their time on.
 
 ### CLASSES IN THE GAME (Interestingly we don't necessarily need a Player class):
+  - Player
   - Timer
   - Room
   - Subclasses of Room:
