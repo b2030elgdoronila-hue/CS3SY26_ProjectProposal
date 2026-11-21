@@ -2,12 +2,12 @@
 
 
 ## Project Proposal Template:
-cvbbbc
-### Project Title or Name of the Application	:
-### Section			   	      :
-### Group Members			    :
-### Date (Proposal Date)  : Nov 5, 2026
-fdfhdfhfshsdhfhhtrthdfh
+
+### Project Title or Name of the Application	: 60 SECONDS
+### Section			   	      : 9 - Strontium
+### Group Members			    : DORONILA, MALLARI, PUA
+### Date (Proposal Date)  : Nov 21, 2026
+
 ### Project Description:
 
 - A brief summary of the project description and the need for it.
