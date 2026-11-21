@@ -20,19 +20,18 @@
   - Timer: Keeps track of the time, deducts time per decision
   - Room: Interactive rooms that the player navigates through 
   - Subclasses of Room:
-    - Control Room: The player identifies and inputs the code to stop from
-    - Bunker Room
-    - Suit Room: Consists of the suit in which the player can use to leave the spaceship
+    - Control Room: What can the player do? - Access a riddle and input the three-digit code to stop the spaceship from self-destruction
+    - Bunker Room: What can the player do? - Wake up from their slumber or sleep again
+    - Suit Room: What can the player do? - Acquire space suit and exit the spaceship
 
+### UML Class Diagram:
 <img width="1182" height="1128" alt="image" src="https://github.com/user-attachments/assets/eaeeff94-1938-4138-bf5c-f815b92e9953" />
 
-### Goals:
-
-Describe the long term outcomes of your project followed by a couple of objectives to meet the goals stated in this paragraph
-Our long term outcomes of our project includes: 
+### Our long term outcomes for our project includes: 
 - High replayability and community engagement
 - Accessible entertainment
-  
+
+### Objectives:
 - Objective 1: Build a turn-based countdown and navigation system
 - Objective 2: Design branching scenarios and multiple endings
 - Objective 3: Deliver an accessible, engaging sci-fi experience
