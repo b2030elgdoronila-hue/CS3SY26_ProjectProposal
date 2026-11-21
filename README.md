@@ -16,16 +16,15 @@
 - Our target audience is preferably those aged above 7, but it would most likely be bored Redditors finding a short sci-fi webgame to waste their time on.
 
 ### CLASSES IN THE GAME:
-  - Player
-  - Timer
-  - Room
+  - Player: Controls the game, navigates through the rooms
+  - Timer: Keeps track of the time, deducts time per decision
+  - Room: Interactive rooms that the player navigates through 
   - Subclasses of Room:
-    - Control Room
+    - Control Room: The player identifies and inputs the code to stop from
     - Bunker Room
-    - Suit Room
+    - Suit Room: Consists of the suit in which the player can use to leave the spaceship
 
-<img width="1126" height="1076" alt="image" src="https://github.com/user-attachments/assets/afd59825-4478-47e6-b658-c6c0e787d891" />
-
+<img width="1182" height="1128" alt="image" src="https://github.com/user-attachments/assets/eaeeff94-1938-4138-bf5c-f815b92e9953" />
 
 ### Goals:
 
@@ -37,5 +36,3 @@ Our long term outcomes of our project includes:
 - Objective 1: Build a turn-based countdown and navigation system
 - Objective 2: Design branching scenarios and multiple endings
 - Objective 3: Deliver an accessible, engaging sci-fi experience
-
-[Click here for Rubrics and Sample projects](https://docs.google.com/document/d/1xKd1CqK6DcNWS2_oJPBNtY5n3I3Hqiw8FY3W295Iqfk/edit?usp=sharing)
