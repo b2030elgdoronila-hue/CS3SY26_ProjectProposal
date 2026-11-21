@@ -10,9 +10,9 @@
 
 ### Project Description:
 
-- 60 SECONDS is a game in which the player is trapped in a spaceship that was hit by an asteroid, with only 60 seconds left until the ship self-destructs. This is a text role play game purely for entertainment purposes, based off the movie Oxygen (2021).
-
-- Describes system components, features, and expected outputs clearly and logically. NOTE: Clearly described the elements(classes), their attributes and methods and how they will interact with each other.
+- 60 SECONDS is a game in which the player is trapped in a spaceship that was hit by an asteroid, with only 60 seconds left until the ship self-destructs. This is a text role play game purely for entertainment purposes, loosely based off the movie Oxygen (2021).
+- They would be presented decisions on what to do or where to go, and each decision will cost 6 seconds each.
+- There are 3 endings, one bad, good, and a slow bad one (???)
 
 - Include the description as well of your target demographics as the user of your application. 
 
