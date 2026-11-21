@@ -12,11 +12,9 @@
 
 - 60 SECONDS is a game in which the player is trapped in a spaceship that was hit by an asteroid, with only 60 seconds left until the ship self-destructs. This is a text role play game purely for entertainment purposes, loosely based off the movie Oxygen (2021).
 - They would be presented decisions on what to do or where to go, and each decision will cost 6 seconds each.
-- There are 3 endings, one bad, good, and a slow bad one (???)
+- There are 3 endings, one bad, good, mid, eternal, and a secret chud ending.
 
-- Include the description as well of your target demographics as the user of your application. 
-
-- The description is then followed by the class diagram, depicting clearly what was described.
+- Our target audience is preferably those aged above 7, but it would most likely be bored Redditors finding a short sci-fi webgame to waste their time on.
 
 **Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
 
