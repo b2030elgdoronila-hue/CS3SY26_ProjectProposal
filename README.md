@@ -20,9 +20,9 @@
   - $\color{salmon}{\text{Timer}}$: Keeps track of the time, deducts time per decision
   - $\color{purple}{\text{Room}}$: Interactive rooms that the player navigates through 
   - Subclasses of Room:
-    - $\color{gold}{\text{Control Room}}$: What can the player do? - Access a riddle and input the three-digit code to stop the spaceship from self-destruction
-    - $\color{gold}{\text{Bunker Room}}$: What can the player do? - Wake up from their slumber or sleep again
-    - $\color{gold}{\text{Suit Room}}$: What can the player do? - Acquire space suit and exit the spaceship
+    - $\color{#FEF08A}{\text{Control Room}}$: What can the player do? - Access a riddle and input the three-digit code to stop the spaceship from self-destruction
+    - $\color{#FEF08A}{\text{Bunker Room}}$: What can the player do? - Wake up from their slumber or sleep again
+    - $\color{#FEF08A}{\text{Suit Room}}$: What can the player do? - Acquire space suit and exit the spaceship
 
 ### UML Class Diagram:
 <img width="1182" height="1128" alt="image" src="https://github.com/user-attachments/assets/eaeeff94-1938-4138-bf5c-f815b92e9953" />
