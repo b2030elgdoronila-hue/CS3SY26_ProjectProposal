@@ -11,8 +11,8 @@
 ### Project Description:
 
 - 60 SECONDS is a game in which the player is trapped in a spaceship that was hit by an asteroid, with only 60 seconds left until the ship self-destructs. This is a text role play game purely for entertainment purposes, loosely based off the movie Oxygen (2021).
-- They would be presented decisions on what to do or where to go, and each decision will cost 6 seconds each.
-- There are 3 endings, one bad, good, mid, eternal, and a secret chud ending.
+- The player's main goal is to stop the spaceship from self-destruction, but in order to do that, they would have to navigate through various rooms and make decisions regarding what to do or where to go, with each decision costing 5 seconds. 
+- There are 5 endings, bad, good, mid, eternal, and a secret chud ending.
 
 - Our target audience is preferably those aged above 7, but it would most likely be bored Redditors finding a short sci-fi webgame to waste their time on.
 
