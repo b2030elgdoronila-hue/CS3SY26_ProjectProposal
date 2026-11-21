@@ -27,7 +27,7 @@
 ### UML Class Diagram:
 <img width="1182" height="1128" alt="image" src="https://github.com/user-attachments/assets/eaeeff94-1938-4138-bf5c-f815b92e9953" />
 
-### Our long term outcomes for our project includes: 
+### Our long term outcomes for our project includes
 - High replayability and community engagement
 - Accessible entertainment
 
