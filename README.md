@@ -21,12 +21,11 @@
   - Room
   - Subclasses of Room:
     - Control Room
-    - Entertainment Room
-    - Bathroom
     - Bunker Room
     - Suit Room
 
-![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
+<img width="1126" height="1076" alt="image" src="https://github.com/user-attachments/assets/afd59825-4478-47e6-b658-c6c0e787d891" />
+
 
 ### Goals:
 
