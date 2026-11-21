@@ -13,7 +13,7 @@
 ### SUMMARY
 - $\color{cyan}{\text{60 SECONDS}}$ is a game in which the player is trapped in a spaceship that was hit by an asteroid, with only 60 seconds left until the ship self-destructs. This is a text role play game purely for entertainment purposes, loosely based off the movie Oxygen (2021).
 - The player's main goal is to stop the spaceship from self-destruction, but in order to do that, they would have to navigate through various rooms and make decisions regarding what to do or where to go, with each decision costing 5 seconds.
-- There are 5 possible endings to acquire: the $\color{red}{\text{BAD}}$ ending, $\color{green}{\text{GOOD}}$ ending, $\color{gray}{\text{MID}}$ ending, $\color{yellow}{\text{ETERNAL}}$ ending, and a secret $\color{purple}{\text{CHUD}}$ ending. Can you discover each every one of them?
+- There are 5 possible endings to acquire: the $\color{red}{\text{BAD}}$ ending, $\color{green}{\text{GOOD}}$ ending, $\color{gray}{\text{MID}}$ ending, $\color{yellow}{\text{ETERNAL}}$ ending, and a secret $\color{purple}{\text{CHUD}}$ ending. Can you discover each and every one of them?
 
 ### FEATURES & COMPONENTS
 - The $\color{skyblue}{\text{Player}}$ owns a $\color{salmon}{\text{Timer}}$, which keeps track of the time, and it reduces time whenever the player makes decisions, such as interacting or moving through the rooms
