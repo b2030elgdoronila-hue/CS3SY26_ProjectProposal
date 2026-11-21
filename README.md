@@ -15,7 +15,7 @@
 - There are 5 possible endings to acquire: the $\color{red}{\text{BAD}}$ ending, $\color{green}{\text{GOOD}}$ ending, $\color{gray}{\text{MID}}$ ending, $\color{yellow}{\text{ETERNAL}}$ ending, and a secret $\color{purple}{\text{CHUD}}$ ending. Can you discover each every one of them?
 - Our target audience is preferably those aged above 7, but it would most likely be bored Redditors finding a short sci-fi webgame to waste their time on.
 
-### CLASSES IN THE GAME:
+### Classes:
   - Player: Controls the game, navigates through the rooms
   - Timer: Keeps track of the time, deducts time per decision
   - Room: Interactive rooms that the player navigates through 
