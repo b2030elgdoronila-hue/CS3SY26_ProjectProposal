@@ -16,8 +16,8 @@
 - Our target audience is preferably those aged above 7, but it would most likely be bored Redditors finding a short sci-fi webgame to waste their time on.
 
 ### Classes:
-  - $\color{teal}{\text{Player}}$: Controls the game, navigates through the rooms
-  - $\color{coral}{\text{Timer}}$: Keeps track of the time, deducts time per decision
+  - $\color{skyblue}{\text{Player}}$: Controls the game, navigates through the rooms
+  - $\color{salmon}{\text{Timer}}$: Keeps track of the time, deducts time per decision
   - $\color{purple}{\text{Room}}$: Interactive rooms that the player navigates through 
   - Subclasses of Room:
     - $\color{yellow}{\text{Control Room}}$: What can the player do? - Access a riddle and input the three-digit code to stop the spaceship from self-destruction
