@@ -16,7 +16,15 @@
 
 - Our target audience is preferably those aged above 7, but it would most likely be bored Redditors finding a short sci-fi webgame to waste their time on.
 
-**Sample class Diagram from https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png:**
+- CLASSES IN THE GAME (Interestingly we don't necessarily need a Player class):
+  Timer
+  Room
+  Subclass of Room:
+    Control Room
+    Entertainment Room
+    Bathroom
+    Bunker Room
+    Suit Room
 
 ![Sample Diagram](https://static.visual-paradigm.com/web/images/tutorials/class-diagram-tutorial/01-class-diagram-example.png)
 
